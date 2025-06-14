@@ -1,2 +1,2 @@
-imprort streamlit as st
+import streamlit as st
 st.tille('sao ma kho the')
