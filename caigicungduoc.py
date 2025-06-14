@@ -1,2 +1,2 @@
 import streamlit as st
-st.tille('sao ma kho the')
+st.title('sao ma kho the')
